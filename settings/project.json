@@ -1,0 +1,12 @@
+{
+  "start-scene": "current",
+  "group-list": [
+    "default"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": []
+}
