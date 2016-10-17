@@ -1,5 +1,6 @@
 # 《橡皮怪勇闯地下室》CocosCreator源码
-本程序非常适合CocosCreator新手学习使用。<br>
+本程序非常适合CocosCreator新手学习使用,这是一个完整的微信小游戏，里边包括背景音乐，音效，倒计时，分数。<br>
+
 ###[点击试玩](http://jspang.com/2016/10/17/dxs/)<br>
 
 
